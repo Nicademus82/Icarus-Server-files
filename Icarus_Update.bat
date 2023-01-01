@@ -1,0 +1,1 @@
+SteamCMD.exe +runscript Icarus.txt
