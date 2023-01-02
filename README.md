@@ -12,4 +12,4 @@
 * Shutdown server before attempting to update
 * Server_Start.bat file is ready for auto server restart setup using Windows Task Scheduler
 
-**DON'T FORGET TO PORTFORWARD PORTS 1777 AND 27015**
+**DON'T FORGET TO PORTFORWARD PORTS 17777 AND 27015**
