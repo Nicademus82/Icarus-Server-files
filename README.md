@@ -8,7 +8,7 @@
 
 * After starting your server for the first time it will create a ServerSettings.ini file located
   C:\icarus\Icarus\Saved\Config\WindowsServer\ServerSettings.ini
-* If not just use the provided ServerSettings.ini file here and edit to fit your needs
+* If not just use the provided ServerSettings.ini file and edit to fit your needs
 * Shutdown server before attempting to update
 * Server_Start.bat file is ready for auto server restart setup using Windows Task Scheduler
 
