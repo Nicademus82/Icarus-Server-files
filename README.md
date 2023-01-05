@@ -2,7 +2,7 @@
 
 #2 Run the Icarus_Update.bat file located in SteamCMD folder to create\update your icarus server
 
-#3 Right-click Server_Start.bat file and edit the ("NAME OF YOUR SERVER") to whatever you like
+#3 Right-click Server_Start.bat file and edit the server name to whatever you like
 
 #4 Run Server_Start.bat file 
 
